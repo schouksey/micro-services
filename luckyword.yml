@@ -1,0 +1,4 @@
+---
+spring:
+  profiles:east
+  lucky-word:Sumit Chouksey
